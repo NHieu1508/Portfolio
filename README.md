@@ -18,6 +18,6 @@
 ## Thông tin bài tập lớn
 
 * ***Tên bài tập:*** Xây dựng website portfolio
-* ***Công cụ:*** HTML, CSS
+* ***Công cụ:*** HTML, CSS, JS
 
    
