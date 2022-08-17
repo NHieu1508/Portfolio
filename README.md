@@ -1,13 +1,11 @@
-<p align ='center'>
-<img src="[/Users/BOSS/Desktop/img/bo-hinh-nen-mau-den-cuc-dep-cho-may-tinh-laptop_112613283.jpg](https://github.com/NHieu1508/Portfolio/blob/main/PORTFOLIO.png)">
-</p>
 
-<h1 align ='center' style = 'color:red;'> <b> Portfolio </b></h1>
+<h1 align ='center'> <b style = 'color: red;'> Portfolio </b></h1>
 
 ## GIỚI THIỆU PORTFOLIO
 
 * **Home** 
-* **About Me** 
+* **About Me**
+* **Services**
 * **Skills**
 * **Contact**
 
