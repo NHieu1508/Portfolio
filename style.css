@@ -7,7 +7,7 @@
 .hero{
 	height: 100vh;
 	width: 100%;
-	background-image: url(../Desktop/img/bo-hinh-nen-mau-den-cuc-dep-cho-may-tinh-laptop_112613283.jpg);
+	background-image: url(/NHieu/Github/Portfolio//img/bo-hinh-nen-mau-den-cuc-dep-cho-may-tinh-laptop_112613283.jpg);
 	background-size: cover;
 	background-position: center;
 }
@@ -43,7 +43,7 @@ nav ul li a:hover{
 	color: #f9004d;
 	transition: .4s;
 }
-.btn{
+#btn{
 	background-color:#f9004d;
 	color: white;
 	text-decoration: none;
@@ -53,7 +53,7 @@ nav ul li a:hover{
 	border-radius: 30px;
 	transition: transform .4s; 
 }
-.btn:hover{
+#btn:hover{
 	transform: scale(1.2);
 }
 .content{
@@ -90,7 +90,7 @@ h4{
 	outline: none;
 	border-radius: 30px;
 }
-.newslatter form input:last-child{
+.newslatter form #btn2{
 	position: absolute;
 	display: inline-block;
 	outline: none;
